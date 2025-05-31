@@ -1,0 +1,10 @@
+hosanna-school-site/
+│
+├── home.html
+├── academics.html
+├── admissions.html
+├── contact.html
+├── style.css
+├── academic-calendar.pdf       ← (you can use a placeholder file)
+├── fee-structure.pdf           ← (use a mock PDF for demo)
+└── prospectus.pdf              ← (mock PDF or flyer)
